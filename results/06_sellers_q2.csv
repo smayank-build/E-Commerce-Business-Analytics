@@ -1,0 +1,5 @@
+performance_tier,seller_count,avg_cancellation_rate,avg_review_score,total_revenue,pct_revenue
+Average,2590,0.25,4.27,6844463.59,50.14
+Good Performer,90,0.20,4.09,3538106.86,25.92
+Top Performer,28,0.43,4.20,2813170.94,20.61
+Underperformer,387,21.98,1.95,456182.08,3.34

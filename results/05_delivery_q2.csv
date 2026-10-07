@@ -1,0 +1,5 @@
+delivery_segment,order_count,pct,avg_actual_days
+On Time,88644,91.89,10.8
+Slightly Late (1-3d),3162,3.28,21.6
+Very Late (7d+),2862,2.97,44.5
+Late (4-7d),1802,1.87,28.2
