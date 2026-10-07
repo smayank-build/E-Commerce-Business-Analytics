@@ -109,5 +109,4 @@ mysql -u root -p ecommerce < sql/01_schema_setup.sql
 
 ## 👤 Author
 
-**Suhas Dhamapurkar** — Data Analyst  
-[LinkedIn](https://www.linkedin.com/in/suhas-1710d/) | [GitHub](https://github.com/Suhas5497) | [Portfolio](https://portfolio-git-main-suhasdhamapurkar1710-gmailcoms-projects.vercel.app/)
+**Mayank Sharma** — Data Analyst  
